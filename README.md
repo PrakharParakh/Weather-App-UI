@@ -1,5 +1,5 @@
 # Weather-App-UI
-Weather app UI using SwiftUI
+Weather app UI using SwiftUI for apple users.
 Uses stack views to bulid a basic weather UI in SwiftUI
 Uses SF Symbols to create images of sun and clouds.
 
